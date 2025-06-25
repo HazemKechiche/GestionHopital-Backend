@@ -1,0 +1,34 @@
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.csproj.AssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.deps.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.runtimeconfig.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.csproj.CopyComplete
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\refint\TE.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.genruntimeconfig.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Data\obj\Debug\net6.0\ref\TE.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.deps.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Data.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Core.Domain.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.csproj.AssemblyReference.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.AssemblyInfoInputs.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.AssemblyInfo.cs
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.csproj.CoreCompileInputs.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.csproj.Up2Date
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\refint\TE.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\TE.Data.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Data\obj\Debug\net6.0\ref\TE.Data.dll

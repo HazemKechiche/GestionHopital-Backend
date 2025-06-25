@@ -1,0 +1,213 @@
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.staticwebassets.runtime.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.exe
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.deps.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.runtimeconfig.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.csproj.AssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.RazorAssemblyInfo.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.RazorAssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\scopedcss\bundle\TE.UI.WEB.styles.css
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\scopedcss\projectbundle\TE.UI.WEB.bundle.scp.css
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.csproj.CopyComplete
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\refint\TE.UI.WEB.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.genruntimeconfig.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\ref\TE.UI.WEB.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Services.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.staticwebassets.runtime.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.staticwebassets.endpoints.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.exe
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.deps.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.runtimeconfig.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.UI.WEB.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Domain.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Services.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Data.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.csproj.AssemblyReference.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.AssemblyInfoInputs.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.AssemblyInfo.cs
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.csproj.CoreCompileInputs.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.RazorAssemblyInfo.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.RazorAssemblyInfo.cs
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\scopedcss\bundle\TE.UI.WEB.styles.css
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\scopedcss\projectbundle\TE.UI.WEB.bundle.scp.css
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets\msbuild.TE.UI.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets\msbuild.TE.UI.WEB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.TE.UI.WEB.props
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TE.UI.WEB.props
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TE.UI.WEB.props
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.csproj.Up2Date
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\refint\TE.UI.WEB.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\TE.UI.WEB.genruntimeconfig.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\obj\Debug\net6.0\ref\TE.UI.WEB.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.forms.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.io.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.layout.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.pdfua.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.sign.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.svg.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.commons.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itextsharp.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\itext.bouncy-castle-adapter.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.UI.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll

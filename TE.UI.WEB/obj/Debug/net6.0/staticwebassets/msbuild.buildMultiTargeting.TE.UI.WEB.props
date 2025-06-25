@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TE.UI.WEB.props" />
+</Project>

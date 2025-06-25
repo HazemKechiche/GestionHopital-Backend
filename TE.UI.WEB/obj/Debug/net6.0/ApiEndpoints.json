@@ -1,0 +1,649 @@
+[
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AdminController",
+    "Method": "doExam",
+    "RelativePath": "api/admin/{idA}/{idE}/exam",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idA",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "idE",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AdminController",
+    "Method": "getPendingExams",
+    "RelativePath": "api/admin/get/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AdminController",
+    "Method": "MettreAJourResultat",
+    "RelativePath": "api/admin/mettreAJourResultat",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ExamenId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "LignesResultat",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Commentaire",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Images",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AgendaController",
+    "Method": "SupprimerDisponibilite",
+    "RelativePath": "api/agenda/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AgendaController",
+    "Method": "GetAgenda",
+    "RelativePath": "api/agenda/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AgendaController",
+    "Method": "AddAgenda",
+    "RelativePath": "api/agenda/{medecinId}/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medecinId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "agenda",
+        "Type": "TE.Core.Domain.Agenda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AgendaController",
+    "Method": "CreerDisponibilites",
+    "RelativePath": "api/agenda/disponibilites",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TE.UI.WEB.Controllers.DisponibiliteCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AgendaController",
+    "Method": "GetDisponibilites",
+    "RelativePath": "api/agenda/medecins/{medecinId}/disponibilites",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medecinId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AgendaController",
+    "Method": "GetMesAgendas",
+    "RelativePath": "api/agenda/mes-agendas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TE.UI.WEB.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AuthController",
+    "Method": "SignupMedecin",
+    "RelativePath": "api/auth/signup/medecin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TE.Core.Domain.Medecin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.AuthController",
+    "Method": "SignupPatient",
+    "RelativePath": "api/auth/signup/patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TE.Core.Domain.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.ConsultationController",
+    "Method": "AjouterDiagnostics",
+    "RelativePath": "api/consultation/{consultationId}/diagnostics",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consultationId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "diagnostics",
+        "Type": "System.Collections.Generic.List\u00601[[TE.Core.Domain.Diagnostic, TE.Core.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.ConsultationController",
+    "Method": "DemarrerConsultation",
+    "RelativePath": "api/consultation/demarrer/{rdvId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rdvId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.ConsultationController",
+    "Method": "FinaliserConsultation",
+    "RelativePath": "api/consultation/finaliser/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.FicheMedicaleController",
+    "Method": "AddFiche",
+    "RelativePath": "api/fiches/addfiche",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fiche",
+        "Type": "TE.Core.Domain.FicheMedical",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TE.Core.Domain.FicheMedical",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.FicheMedicaleController",
+    "Method": "Index",
+    "RelativePath": "api/fiches/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[TE.Core.Domain.FicheMedical, TE.Core.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedecinController",
+    "Method": "Index",
+    "RelativePath": "api/medecin/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedecinController",
+    "Method": "GetPatientsWithFinalisedConsultations",
+    "RelativePath": "api/medecin/patients-finalised",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[TE.Core.Services.MedecinService\u002BPatientDto, TE.Core.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedecinController",
+    "Method": "GetProfile",
+    "RelativePath": "api/medecin/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedicamentController",
+    "Method": "GetAll",
+    "RelativePath": "api/medicament",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TE.Core.Domain.Medicament, TE.Core.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedicamentController",
+    "Method": "Create",
+    "RelativePath": "api/medicament",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicament",
+        "Type": "TE.Core.Domain.Medicament",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TE.Core.Domain.Medicament",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedicamentController",
+    "Method": "GetById",
+    "RelativePath": "api/medicament/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TE.Core.Domain.Medicament",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedicamentController",
+    "Method": "Update",
+    "RelativePath": "api/medicament/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "medicament",
+        "Type": "TE.Core.Domain.Medicament",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.MedicamentController",
+    "Method": "Delete",
+    "RelativePath": "api/medicament/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.OrdenanceController",
+    "Method": "GetAll",
+    "RelativePath": "api/ordenance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.OrdenanceController",
+    "Method": "GetById",
+    "RelativePath": "api/ordenance/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.OrdenanceController",
+    "Method": "Update",
+    "RelativePath": "api/ordenance/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "ordonnance",
+        "Type": "TE.Core.Domain.Ordenance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.OrdenanceController",
+    "Method": "Delete",
+    "RelativePath": "api/ordenance/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.OrdenanceController",
+    "Method": "CreateOrdonnance",
+    "RelativePath": "api/ordenance/ajouter/{consultationId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consultationId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "ordonnance",
+        "Type": "TE.Core.Domain.Ordenance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.PatientController",
+    "Method": "UpdateFicheByPatient",
+    "RelativePath": "api/patient/{patientId}/fichemedicale",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedFiche",
+        "Type": "TE.Core.Domain.FicheMedical",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.PatientController",
+    "Method": "ReserverRendezVous",
+    "RelativePath": "api/patient/rendezvous/{patientId}/agenda/{agendaId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "agendaId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "TE.Core.Domain.RendezVous",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.RendezVousController",
+    "Method": "annulerRdv",
+    "RelativePath": "api/rendezvous/annule/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.RendezVousController",
+    "Method": "confirmerRdv",
+    "RelativePath": "api/rendezvous/confirme/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.RendezVousController",
+    "Method": "getRendezVousPerMedecin",
+    "RelativePath": "api/rendezvous/medecin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TE.UI.WEB.Controllers.RendezVousController",
+    "Method": "getRendezVousPerPatient",
+    "RelativePath": "api/rendezvous/patient/{idPatient}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPatient",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

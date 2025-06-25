@@ -1,0 +1,36 @@
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.AssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.deps.json
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.CopyComplete
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\refint\TE.Core.Services.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\ref\TE.Core.Services.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.deps.json
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.AssemblyReference.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.AssemblyInfoInputs.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.AssemblyInfo.cs
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core..37D0D1E7.Up2Date
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\refint\TE.Core.Services.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\obj\Debug\net6.0\ref\TE.Core.Services.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Data.dll
+C:\Users\si hazem\Desktop\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Data.pdb
